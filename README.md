@@ -1,2 +1,14 @@
 # Portafolio Estadía
 Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, referentes a Animación y Modelado 3D.
+
+
+<img width="1916" height="1140" alt="Avion3d" src="https://github.com/user-attachments/assets/c248e3dd-0cb5-4ddd-a1a5-3f20b58be411" />
+<img width="1917" height="1131" alt="Botella3d" src="https://github.com/user-attachments/assets/7341348d-cde9-416f-adc4-0651fe12ec36" />
+<img width="1910" height="1136" alt="Casa3d" src="https://github.com/user-attachments/assets/2bcab135-fd0d-4ef1-803c-d4828ae02348" />
+<img width="1917" height="1132" alt="Castillo3d" src="https://github.com/user-attachments/assets/f57f97d0-0c96-4528-bec8-00194c36e7c0" />
+<img width="1917" height="1141" alt="Flor3s" src="https://github.com/user-attachments/assets/d2ddd8e7-9488-478d-8525-0ad729700630" />
+
+
+
+
+
