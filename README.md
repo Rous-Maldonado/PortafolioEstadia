@@ -1,5 +1,5 @@
 # Portafolio Estadía
-Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, referentes a Animación y Modelado 3D.
+Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, referentes a Animación, Modelado 3D y Desarrollo de Videojuegos.
 
 
 <img width="1916" height="1140" alt="Avion3d" src="https://github.com/user-attachments/assets/c248e3dd-0cb5-4ddd-a1a5-3f20b58be411" />
@@ -9,12 +9,18 @@ Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, refer
 <img width="1917" height="1141" alt="Flor3s" src="https://github.com/user-attachments/assets/d2ddd8e7-9488-478d-8525-0ad729700630" />
 <img width="1917" height="1137" alt="FlorLoto3d" src="https://github.com/user-attachments/assets/bc412b9e-7aee-43ff-8ed4-daaead501b14" />
 <img width="1917" height="1140" alt="FlorAmarilla" src="https://github.com/user-attachments/assets/e75b8031-4dad-4782-b43e-c06ee8d0f294" />
+<img width="1917" height="1141" alt="Tren3D" src="https://github.com/user-attachments/assets/d9861bf7-8497-407e-aab2-d1aa49dccb3a" />
+
 
 
 
 https://github.com/user-attachments/assets/0989d6bc-573c-44df-9da2-4382845d9dbf
 
 https://github.com/user-attachments/assets/7dddf7a4-47e2-49e7-8439-8ca714eacbe1
+
+https://github.com/user-attachments/assets/5da452f8-d23d-4e90-9d88-4a008e7fe19a
+
+
 
 
 
