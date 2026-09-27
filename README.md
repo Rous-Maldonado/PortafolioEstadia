@@ -1,2 +1,2 @@
-# PortafolioEstadia
-Evidencias de los Trabajo realizados a lo largo de la Carrera, referentes a Animación y Modelado 3D.
+# Portafolio Estadia
+Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, referentes a Animación y Modelado 3D.
