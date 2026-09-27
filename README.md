@@ -14,6 +14,17 @@ Evidencias de algunos de los trabajos realizados a lo largo de la Carrera, refer
 
 https://github.com/user-attachments/assets/0989d6bc-573c-44df-9da2-4382845d9dbf
 
+https://github.com/user-attachments/assets/7dddf7a4-47e2-49e7-8439-8ca714eacbe1
+
+
+
+
+
+
+
+
+
+
 
 
 
