@@ -30,6 +30,10 @@ Desarrollo de Videojuegos con recursos gráficos de UnityStore, se evaluó la ju
 
 https://github.com/user-attachments/assets/fb1691e4-9d37-4bc9-87a3-e9c1aba60c7f
 
+https://github.com/user-attachments/assets/0de3edc4-f5c8-4740-a4b3-d0504b1b58c6
+
+
+
 
 
 
