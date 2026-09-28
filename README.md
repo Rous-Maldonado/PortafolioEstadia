@@ -26,11 +26,17 @@ https://github.com/user-attachments/assets/dca291c4-9a30-40a2-ad18-877a7aeb376c
 
 ---
 Desarrollo de Videojuegos con recursos gráficos de UnityStore, se evaluó la jugabilidad y la lógica como entregable del proyecto.
+---
 
+
+https://github.com/user-attachments/assets/aa563c4f-421a-4bbf-89ee-1c8ef8cdf6b7
 
 https://github.com/user-attachments/assets/fb1691e4-9d37-4bc9-87a3-e9c1aba60c7f
 
 https://github.com/user-attachments/assets/0de3edc4-f5c8-4740-a4b3-d0504b1b58c6
+
+
+
 
 
 
