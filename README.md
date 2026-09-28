@@ -36,7 +36,18 @@ https://github.com/user-attachments/assets/fb1691e4-9d37-4bc9-87a3-e9c1aba60c7f
 https://github.com/user-attachments/assets/0de3edc4-f5c8-4740-a4b3-d0504b1b58c6
 
 
+---
+### Técnico Superior Universitario
 
+Como parte de mi proceso formativo, realicé mi primera estadía profesional en el **Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)**, como parte de mi formación para obtener el título de **Técnico Superior Universitario en Tecnologías de la Información**.
+
+Durante esta estadía desarrollé un **simulador de educación vial**, haciendo uso de herramientas como **Unity y Blender**, y aplicando conocimientos de **desarrollo de videojuegos, modelado 3D y animación**. Debido a la naturaleza confidencial del proyecto, no me es posible compartir imágenes o material del mismo.
+
+La **animación, el modelado 3D y el desarrollo de videojuegos son áreas que me apasionan** y en las que deseo continuar creciendo profesionalmente. Me considero una persona con muchas ganas de aprender, explorar nuevas herramientas y adquirir nuevas habilidades. Además, tengo la disposición de adaptarme a las necesidades de cada proyecto y desarrollarme en diferentes áreas cuando sea necesario, siempre buscando la mejor manera de contribuir y alcanzar los objetivos planteados.
+
+Mi formación me ha permitido combinar el aspecto técnico con mi interés por la creación de experiencias y contenido digital, y actualmente busco una oportunidad que me permita **seguir aprendiendo, aportar mis conocimientos y crecer dentro de la industria de la animación y los videojuegos**.
+
+<img width="1007" height="1280" alt="CartaDeRecomendación" src="https://github.com/user-attachments/assets/0e186c34-9633-45f0-885e-99ea69ec48f9" />
 
 
 
